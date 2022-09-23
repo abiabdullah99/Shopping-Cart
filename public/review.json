@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Travis Head",
+      "description":
+        "Delivery Fast Food Tastey",
+      "address": "Kubi, Feni",
+     "img": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+      "name": "Kate Pretty",
+      "description":"Food Tasty Good Service and All Waiter Are Good Person",
+      "address": "Mirpur, Dhaka",
+     "img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80"
+    },
+    {
+      "name": "Samantha Aliye",
+      "description": "Very Good Prices Delivery Was Fast Food Quality Good",
+      "address": "Bus Stand, Bhola",
+     "img": "https://images.unsplash.com/photo-1616065298043-67646192dcb5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTg3fHxwZXJzb258ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
+    },
+    {
+      "name": "Michel Jack",
+      "description":"Very Tastey Food Awesome Services Thank You Sir",
+      "address": "Town, Bhola",
+     "img": "https://images.unsplash.com/photo-1512485694743-9c9538b4e6e0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTQ2fHxwZXJzb258ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
+    },
+    {
+      "name": "Zyan Malik",
+      "description":"All Are Ok Food Qualitity Good HopeFull Best Service Provied Thank You",
+      "address": "New Market, Khulna",
+     "img": "https://images.unsplash.com/photo-1514794749374-fb67509dbb7f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTkyfHxwZXJzb258ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
+    },
+    {
+      "name": "Alisha Tioo",
+      "description":"Food Are Fresh Price is Low And Tasty Very Good Services",
+      "address": "Mirpur, Dhaka",
+     "img": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjAxfHxwZXJzb258ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
+    }
+  ]
